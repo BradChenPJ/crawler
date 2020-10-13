@@ -12,3 +12,5 @@ Crawl several brands' information in Taiwan and public construction information.
 * twn_kfc.py
 * twn_mcdonald.py
 * twn_pxmart.py
+## Author
+[Brad Chen](https://github.com/BradChenPJ)
